@@ -4,11 +4,7 @@
   <img src="https://mightytext.net/mighty-website/img/navlogo-small-teal.png" alt="MightyText Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://mighty-text.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_MightyText-blue?style=for-the-badge&logo=googleplay" alt="Get MightyText"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://p21218323.github.io/.github/Mighty-Text)
 
 ---
 
